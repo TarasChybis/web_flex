@@ -31,8 +31,7 @@ SVG (від англ. Scalable Vector Graphics — масштабована ве
 + <a href="https://learn.microsoft.com/ru-ru/contribute/how-to-write-links#bookmark-links">Рекогносцювання</a>
 + <a href="https://learn.microsoft.com/ru-ru/contribute/how-to-write-links#bookmark-links">Схема взаємодії з користувачем</a>
 
-<p>Проект запущено на Heroku (посилання).</b>
-Використовується база данних SQL.</p>
+<a href="https://www.youtube.com/watch?v=8Gu40PFzOHI">FLEXBOX. Примеры верстки на flex. Учимся верстать на флексах. Часть четвертая - практика</a>
 
 ## 3. Зборка репозиторію та локальний запуск <a id="3"></a>
 Виконайте в консолі:
